@@ -1,6 +1,6 @@
-# Nextjs Animated Slider 🚀
+# ReactJs Landing Page 🚀
 
-Stunning animated slider website built using Next.js, Framer Motion, and Tailwind CSS.
+Stunning Landing Page website built using React.js and Tailwind CSS.
 
 For a video demo!!!
 Click [here](https://www.facebook.com/reel/377356365009419)
